@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\ZAPOCTOVY_PROGRAM_Csharp\\server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7785ED6-840D-4D17-9BD4-07B320B9883B}|server\\server.csproj|c:\\users\\admin\\documents\\zapoctovy_program_csharp\\server\\server\\class\u00EBsfortasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7785ED6-840D-4D17-9BD4-07B320B9883B}|server\\server.csproj|solutionrelative:server\\class\u00EBsfortasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7785ED6-840D-4D17-9BD4-07B320B9883B}|server\\server.csproj|C:\\Users\\Admin\\Documents\\ZAPOCTOVY_PROGRAM_Csharp\\server\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7785ED6-840D-4D17-9BD4-07B320B9883B}|server\\server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 268,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class\u00EBsForTasks.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\ZAPOCTOVY_PROGRAM_Csharp\\server\\server\\Class\u00EBsForTasks.cs",
+              "RelativeDocumentMoniker": "server\\Class\u00EBsForTasks.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\ZAPOCTOVY_PROGRAM_Csharp\\server\\server\\Class\u00EBsForTasks.cs",
+              "RelativeToolTip": "server\\Class\u00EBsForTasks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:49:56.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\ZAPOCTOVY_PROGRAM_Csharp\\server\\server\\Program.cs",
+              "RelativeDocumentMoniker": "server\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\ZAPOCTOVY_PROGRAM_Csharp\\server\\server\\Program.cs",
+              "RelativeToolTip": "server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T22:02:08.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
